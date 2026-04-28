@@ -1,9 +1,9 @@
 ---
-title: "Wikipedia and the Wisdom of the Crowd"
+title: "An Automobile Revolution and The Great Manure Crisis"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
+summary: When the automobile emerged at the turn of the twentieth century, it did more than replace the horse—it exposed the limits of urban systems built on animal power and quietly resolved a crisis of waste, disease, and infrastructure that cities seemed unable to solve.
 header-title: Wikipedia and the Wisdom of the Crowd
 header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
