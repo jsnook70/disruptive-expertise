@@ -32,16 +32,14 @@ Consider the wheelwright, a primary figure in pre-automotive technical expertise
   image-path="images/wheelwrights-working.jpg"
   image-position="right"
   image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  caption="Wheelwrights repairing a wagon wheel at Jindabyne capture the craftsmanship of an older transport economy just before motor vehicles began to reshape rural work."
   text=britannica_text
 %}
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
-
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
+This world relied on locally specific knowledge and sensory intuition. A driver’s "expertise" was a reciprocal relationship with a sentient animal. The horse was an engine with a mind of its own, and managing it required a constant negotiation with an "unruly motor". This was a decentralized, non-standardized world where "driving" was a skill learned through childhood exposure rather than formal state oversight.
 
 
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+{% include typography/pullquote.html text="\"In 50 years, every street in London will be buried under nine feet of manure.\" — The Times of London, 1894" %}
 
 ## Anyone Can Edit
 
