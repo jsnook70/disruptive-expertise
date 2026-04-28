@@ -4,7 +4,7 @@ layout: scrollstory
 header-image: images/ford-1921.jpg
 thumbnail: images/ford-1921.jpg
 summary: When the automobile emerged at the turn of the twentieth century, it did more than replace the horse—it exposed the limits of urban systems built on animal power and quietly resolved a crisis of waste, disease, and infrastructure that cities seemed unable to solve.
-header-title: The Great Kinetic Reversal - When the Experts Lost the Reins
+header-title: An Automobile Revolution and The Great Manure Crisis
 header-subtitle: How the car fixed the American city.
 header-position: center
 ---
@@ -18,7 +18,7 @@ The conference, scheduled for ten days, collapsed after only three. The world's 
 What the experts failed to see was that the solution wouldn't come from better manure management or more efficient horse breeding. It would come from a wholesale reconfiguration of human expertise. Within twenty years, the "living machine" of the nineteenth century would be systematically dismantled and replaced by the internal combustion engine. This was the "Great Kinetic Reversal," a socio-technical disruption that didn't just change how we moved—it changed who got to be an expert and what kind of knowledge mattered.
 
 
-## The World Wikipedia Disrupted
+## The Biological Anchor: The Vanishing Art of Sensory Mastery
 
 {% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
