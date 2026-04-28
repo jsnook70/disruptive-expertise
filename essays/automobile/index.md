@@ -9,7 +9,8 @@ header-subtitle: How the car fixed the American city.
 header-position: center
 ---
 
-# The Great Kinetic Reversal: When the Experts Lost the Reins
+# The Great Kinetic Reversal: 
+## When the Experts Lost the Reins
 
 In 1898, delegates from across the globe gathered in New York City for the world's first international urban planning conference. The atmosphere was one of impending apocalypse, but the threat wasn't war or economic collapse—it was horse manure. At the time, urban civilization was utterly dependent on a biological infrastructure that had remained fundamentally unchanged since the Roman Empire. In New York alone, 150,000 horses produced roughly 2.5 million pounds of manure every single day. Experts predicted that by 1930, manure would reach the third-story windows of Manhattan.
 
@@ -18,7 +19,8 @@ The conference, scheduled for ten days, collapsed after only three. The world's 
 What the experts failed to see was that the solution wouldn't come from better manure management or more efficient horse breeding. It would come from a wholesale reconfiguration of human expertise. Within twenty years, the "living machine" of the nineteenth century would be systematically dismantled and replaced by the internal combustion engine. This was the "Great Kinetic Reversal," a socio-technical disruption that didn't just change how we moved—it changed who got to be an expert and what kind of knowledge mattered.
 
 
-## The Biological Anchor: The Vanishing Art of Sensory Mastery
+## The Biological Anchor: 
+### The Vanishing Art of Sensory Mastery
 
 {% capture britannica_text %}
 To understand the magnitude of this shift, one must understand the type of expertise it replaced. The nineteenth-century city was a "horse city," an environment where movement was rooted in a mastery of biological and elemental forces. Expertise was not standardized; it was personal, artisanal, and deeply sensory.
