@@ -60,13 +60,13 @@ The speed of the transition was staggering. In 1910, the U.S. horse population p
 
 This wasn't just a swap of vehicles; it was a functional displacement in a predictable sequence:
 
-Stationary Power: Engines replaced horses on treadmills.
+1.Stationary Power: Engines replaced horses on treadmills.
 
-Fixed Routes: Electric streetcars replaced horse-drawn trolleys.
+2.Fixed Routes: Electric streetcars replaced horse-drawn trolleys.
 
-Light Passenger Transport: Automobiles replaced carriages and cabs.
+3.Light Passenger Transport: Automobiles replaced carriages and cabs.
 
-Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
+4.Heavy Freight: Motorized trucks finally supplanted the horse cart in the 1920s.
 
 
 ## The Critics Respond
